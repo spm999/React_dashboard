@@ -10,13 +10,6 @@ This React Dashboard is a responsive and dynamic web application designed to vis
 - **Responsive Design**: Works seamlessly on both desktop and mobile devices.
 - **Rich Icon Library**: Utilize a wide range of icons from React Icons.
 
-## Technologies Used
-
-- **React**: ^18.2.0
-- **React DOM**: ^18.2.0
-- **React Icons**: ^4.11.0
-- **Recharts**: ^2.8.0
-
 ## Installation
 
 1. **Clone the Repository**
@@ -34,6 +27,7 @@ This React Dashboard is a responsive and dynamic web application designed to vis
    
    The application will start on http://localhost:5173.
 
+
 ## Usage
 
 ### Dashboard Overview
@@ -45,11 +39,13 @@ This React Dashboard is a responsive and dynamic web application designed to vis
 ### Icons
 1. Utilize a wide range of icons for better representation and navigation.
 
+
 ## Dependencies
 1. react: ^18.2.0
 2. react-dom: ^18.2.0
 3. react-icons: ^4.11.0
 4. recharts: ^2.8.0
+
 
 ## Contributing
 Contributions are welcome! Please open an issue or submit a pull request if you have any improvements or bug fixes.
